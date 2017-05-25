@@ -1,6 +1,6 @@
 ### Getting started
 
-`npm install`
+`ELECTRON_MIRROR=http://npm.taobao.org/mirrors/electron/ yarn install`
 
 Start dev server:
 
